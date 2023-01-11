@@ -79,14 +79,13 @@ body {
   text-decoration: none;
   border-radius: 10px;
   display: flex;
-  color: #495057;
-  background-color: #adb5bd;
+  color: #f8f9fa;
+  background-color: #12b886;
 }
 
 .btn:hover,
 .btn:focus {
-  background-color: #495057;
-  color: #e9ecef;
+  background-color: #087f5b;
 }
 
 /* 2-column layout */
